@@ -13,4 +13,4 @@ Running
 
 After installing run local server with:
 
-`uvicorn flask_tdom_poc:app`
+`flask --app flask_tdom_poc:app run`
