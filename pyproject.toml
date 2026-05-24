@@ -17,6 +17,8 @@ license="MIT"
 [project.optional-dependencies]
 dev = [
     "twine", # Check RST
+    "pyright",
+    "ruff",
 ]
 
 
